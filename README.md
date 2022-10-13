@@ -21,8 +21,8 @@ Included:
 
 ## Samples
 
-- [Gradient Vector Regular](docs/gradientvector-demo.html)
-- [Gradient Vector Light](docs/gradientvector-light-demo.html)
+- [Gradient Vector Regular](https://imaginary.github.io/gradient-vector-font/gradientvector-demo.html)
+- [Gradient Vector Light](https://imaginary.github.io/gradient-vector-font/gradientvector-light-demo.html)
 
 ## Credits
 
